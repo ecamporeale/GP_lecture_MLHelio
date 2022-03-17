@@ -1,0 +1,12 @@
+name: GP
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - gpytorch
+  - rise
+  - matplotlib
+  - ipywidgets
+  - scipy
+  - seaborn
+prefix: /home/enrico/anaconda3/envs/GP
